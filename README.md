@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Betül Bircan
 - 👀 I’m interested in ...Web Geliştirme
-- 🌱 I’m currently learning  Html,Css,JavaScript
+- 🌱 I’m currently learning  Html,Css,JavaScript,React
 - 💞️ I’m looking to collaborate on ...Kodluyoruz
 - 📫 How to reach me ...
 
