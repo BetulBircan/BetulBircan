@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Betül Bircan</h1>
-<h3 align="center">A frontend developer from Turkey</h3>
+<h3 align="center">A JR.Frontend Developer From Turkey</h3>
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,React**
 
