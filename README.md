@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Betül Bircan</h1>
-<h3 align="center">A JR.Frontend Developer From Turkey</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,React**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,React,Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulBircan?tab=repositories](https://github.com/BetulBircan?tab=repositories)
 
