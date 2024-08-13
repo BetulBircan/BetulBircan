@@ -2,7 +2,8 @@
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXhhcHEwdW4zdDFyM2Q5dWd6ejA1aTZ6aG1jeTdjYzd2bWw2Z3kwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,Java,C#**
+- 🌱 I’m currently learning **HTML,CSS,JavaScript,Vuejs,C#.**
+- I use **Javascript** language and **Vuejs** framework
 
 - 👨‍💻 All of my projects are available at [https://github.com/BetulBircan?tab=repositories](https://github.com/BetulBircan?tab=repositories)
 
